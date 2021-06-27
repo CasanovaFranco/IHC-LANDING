@@ -249,6 +249,7 @@ footer{
 
 .content-foo p{
     color: #ccc;
+    cursor: pointer;
 }
 
 .titulo-final{
